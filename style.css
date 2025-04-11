@@ -1,6 +1,6 @@
 body {
-      background-image: url('https://github.com/myxine-glutinosa/myxine-glutinosa.github.io/blob/main/Picture1.jpg')
-      background-repeat: repeat
+      background-image: url('https://github.com/myxine-glutinosa/myxine-glutinosa.github.io/raw/main/Picture1.jpg');
+      background-repeat: repeat;
 }
 
 mark { 
