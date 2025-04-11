@@ -6,15 +6,16 @@ body {
 }
 
 .header {
-    padding: 1px;
+    padding: 0.5px;
     text-align: center;
     background-color: rgba(174, 153, 255, 1.0);
     color: white;
-    font-size: 25px;
+    font-size: 22px;
+    font-weight: bold;
     width: 100%; /* Ensures it spans the viewport */
     box-sizing: border-box; /* Includes padding in width calculation */
 }
-.content {padding:10px;}
+.content {padding:15px;}
 
 mark { 
       background-color: pink
