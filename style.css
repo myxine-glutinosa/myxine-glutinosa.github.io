@@ -1,4 +1,8 @@
-
+body {
+      background-color: rgb(205, 150, 184)
+      background-image: favicon.png
+      background-repeat: repeat
+}
 
 mark { 
       background-color: yellow
