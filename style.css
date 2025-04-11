@@ -1,16 +1,19 @@
 body {
       background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/main/Picture11.jpg');
       background-repeat: repeat;
+      font-family: helvetica
+      margin: 0
 }
 
 .header {
-  padding: 6px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 20px;
+    padding: 20px; /* Increased padding */
+    text-align: center;
+    background-color: #1abc9c; /* Explicitly set background property */
+    color: white;
+    font-size: 20px;
+    width: 100%; /* Ensures it spans the viewport */
+    box-sizing: border-box; /* Includes padding in width calculation */
 }
-
 .content {padding:20px;}
 
 mark { 
