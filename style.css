@@ -3,6 +3,14 @@ body {
       background-repeat: repeat;
 }
 
+.header {
+  padding: 6px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 20px;
+}
+
 mark { 
       background-color: pink
       color: black
