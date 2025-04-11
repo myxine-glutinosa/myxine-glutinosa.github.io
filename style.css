@@ -1,6 +1,7 @@
 body {
-      background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/refs/heads/main/Picture2.jpg');
-      background-repeat: repeat;
+      background-color: 'pink'
+      background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/refs/heads/main/Picture2.jpg')
+      background-repeat: repeat
 }
 
 mark { 
