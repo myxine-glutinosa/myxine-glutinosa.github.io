@@ -29,13 +29,13 @@ body {
 .box {
   flex: 0 1 calc(16.66% - 1em);
   height: 100px;
-  background-color: rgba(238, 235, 255);
+  background-color: rgba(255 153 251, 0.7);
   font-family: helvetica;
-  color: white;
+  color: black;
   text-align: center;
   align-items: center;
   line-height: normal;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 * {
