@@ -13,7 +13,6 @@ body {
     font-size: 22px;
     font-weight: bold;
     width: 100%; /* Ensures it spans the viewport */
-    box-sizing: border-box; /* Includes padding in width calculation */
 }
 
 .content {padding:20px;}
