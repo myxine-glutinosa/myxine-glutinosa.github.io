@@ -33,14 +33,9 @@ body {
   font-family: helvetica;
   color: white;
   text-align: center;
+  align-items: center;
   line-height: normal;
   font-size: 20px;
-}
-
-
-mark { 
-      background-color: pink
-      color: black
 }
 
 * {
