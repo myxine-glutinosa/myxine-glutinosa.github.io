@@ -6,13 +6,16 @@ body {
 }
 
 .header {
-    padding: 1px;
     text-align: center;
     background-color: rgba(174, 153, 255, 1.0);
     color: white;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: bold;
-    width: 100%; /* Ensures it spans the viewport */
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
 }
 
 .content {padding:20px;}
