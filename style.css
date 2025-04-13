@@ -38,7 +38,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  line-height: normal;
   font-size: 16px;
   text-decoration: none;
 }
