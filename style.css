@@ -18,22 +18,21 @@ body {
 .content {padding:20px;}
 
 .container {
-  display: flex;
   height: 200px;
-  padding: 1em;
+  padding: 1px;
   color: white;
-  outline: 2px solid silver;
 }
 
 .box {
   width: 100%;
   margin: 1em;
   height: 100px;
-  background-color: #b200ff;
-  font-family: sans-serif;
+  background-color: rgba(238, 235, 255);
+  font-family: helvetica;
+  color: white;
   text-align: center;
   line-height: 100px;
-  font-size: xx-large;
+  font-size: 20px;
 }
 
 
