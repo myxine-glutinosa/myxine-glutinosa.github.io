@@ -1,13 +1,13 @@
 body {
       background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/working-branch/wavy-cyan-tile.jpg');
       background-repeat: repeat;
-      font-family: helvetica
+      font-family: helvetica;
       margin: 0
 }
 
 .header {
     text-align: center;
-    padding: 1px
+    padding: 1px;
     background-color: rgba(174, 153, 255, 1.0);
     color: white;
     font-size: 20px;
