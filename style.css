@@ -18,14 +18,16 @@ body {
 .content {padding:20px;}
 
 .container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
   height: 200px;
   padding: 1px;
-  color: white;
+  height: auto;
 }
 
 .box {
-  width: 100%;
-  margin: 1em;
+  flex: 0 1 calc(16.66% - 1em);
   height: 100px;
   background-color: rgba(238, 235, 255);
   font-family: helvetica;
