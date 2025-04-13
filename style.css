@@ -7,14 +7,11 @@ body {
 
 .header {
     text-align: center;
+    padding: 1px
     background-color: rgba(174, 153, 255, 1.0);
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
     width: 100%;
 }
 
