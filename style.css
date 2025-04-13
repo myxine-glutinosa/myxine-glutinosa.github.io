@@ -33,7 +33,7 @@ body {
   font-family: helvetica;
   color: white;
   text-align: center;
-  line-height: 100px;
+  line-height: normal;
   font-size: 20px;
 }
 
