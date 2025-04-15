@@ -67,6 +67,12 @@ body {
   background-color: rgb(255, 225, 153);
 }
 
+table, th, td {
+  border: 1px solid;
+  background-color: rgb(244, 244, 244);
+}
+
+
 * {
     font-family: helvetica;
   }
