@@ -1,15 +1,18 @@
 body {
-      background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/working-branch/wavy-cyan-tile.jpg');
-      background-repeat: repeat;
       font-family: helvetica;
-      margin: 0
 }
 
-.eyes-page {
+#homepage {
+      background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/working-branch/wavy-cyan-tile.jpg');
+      background-repeat: repeat;
+      margin: 0;
+}
+
+#eyes-page {
       background-color: rgb(214, 234, 233)
 }
 
-.fossils-page {
+#fossils-page {
       background-color: rgb(235, 227, 213)
 }
 
