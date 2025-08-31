@@ -6,7 +6,8 @@ body {
 #homepage {
       background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/working-branch/wavy-cyan-tile.jpg');
       background-repeat: repeat;
-
+}
+      
 #default-page-design {
       background-color: rgb(214, 219, 234)
 }
