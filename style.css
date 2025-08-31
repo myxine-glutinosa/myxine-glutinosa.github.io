@@ -6,22 +6,9 @@ body {
 #homepage {
       background-image: url('https://raw.githubusercontent.com/myxine-glutinosa/myxine-glutinosa.github.io/working-branch/wavy-cyan-tile.jpg');
       background-repeat: repeat;
-}
 
-#eyes-page {
-      background-color: rgb(214, 234, 233)
-}
-
-#fossils-page {
-      background-color: rgb(235, 227, 213)
-}
-
-#websites-page {
+#default-bg-colour {
       background-color: rgb(214, 219, 234)
-}
-
-#papers-page {
-      background-color: rgb(234, 224, 214)
 }
 
 .header {
